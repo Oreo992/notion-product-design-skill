@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notion Product Design"
+  short_description: "用 Notion 的设计理念、案例与细节指导产品和 UI/UX"
+  default_prompt: "使用 $notion-product-design，以 Notion 的设计理念和真实案例评审这个产品或交互方案。"
