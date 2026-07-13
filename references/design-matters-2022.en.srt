@@ -1,0 +1,2059 @@
+1
+00:00:00,100 --> 00:00:06,400
+here
+
+2
+00:00:10,400 --> 00:00:13,200
+everyone so nice to meet you. My name
+
+3
+00:00:13,200 --> 00:00:16,600
+is Andrew Lee and I'm a product designer a notion.
+
+4
+00:00:16,600 --> 00:00:19,200
+So quick show of hands. How many of you have used
+
+5
+00:00:19,200 --> 00:00:20,600
+notion I've heard of it before.
+
+6
+00:00:21,500 --> 00:00:25,100
+We're cool a good amount of people so over
+
+7
+00:00:24,100 --> 00:00:27,300
+the next 30 minutes. I love
+
+8
+00:00:27,300 --> 00:00:30,400
+to talk to you all about three things first is
+
+9
+00:00:30,400 --> 00:00:32,300
+notion the product and it's Primitives.
+
+10
+00:00:32,900 --> 00:00:35,200
+Second is our design approach as a team.
+
+11
+00:00:35,200 --> 00:00:38,600
+And then lastly I want to do a deep dive of one
+
+12
+00:00:38,600 --> 00:00:39,000
+of our projects.
+
+13
+00:00:39,900 --> 00:00:42,200
+But before I go into this, I want
+
+14
+00:00:42,200 --> 00:00:43,900
+to start the day with the story.
+
+15
+00:00:44,900 --> 00:00:48,000
+a story about tools and
+
+16
+00:00:47,300 --> 00:00:48,900
+the future of work
+
+17
+00:00:50,500 --> 00:00:53,300
+So if you're like me, you're probably in front of a computer all day
+
+18
+00:00:53,300 --> 00:00:56,300
+and you might have a couple
+
+19
+00:00:56,300 --> 00:00:59,600
+dozen tabs open right maybe one for email another for
+
+20
+00:00:59,600 --> 00:01:02,300
+slack figma maybe
+
+21
+00:01:02,300 --> 00:01:05,800
+but kind of have you ever asked yourself. Why is
+
+22
+00:01:05,800 --> 00:01:08,200
+it that in 2022? This is
+
+23
+00:01:08,200 --> 00:01:11,300
+the main way that we work, right? What's the origin story
+
+24
+00:01:11,300 --> 00:01:12,300
+of these tools?
+
+25
+00:01:13,400 --> 00:01:16,800
+So to answer this question and to answer this question of why we
+
+26
+00:01:16,800 --> 00:01:19,100
+built notion we have to travel back in time.
+
+27
+00:01:20,100 --> 00:01:23,500
+So let's rewind the scene to a hundred
+
+28
+00:01:23,500 --> 00:01:26,500
+fifty years ago. And let's imagine
+
+29
+00:01:26,500 --> 00:01:29,800
+what the world felt like right my trip
+
+30
+00:01:29,800 --> 00:01:31,800
+to New York would have taken a month.
+
+31
+00:01:32,800 --> 00:01:35,500
+Life expectancy wasn't so
+
+32
+00:01:35,500 --> 00:01:40,900
+high. So apologies to those over 40 and Communications
+
+33
+00:01:39,900 --> 00:01:42,400
+was quite primitive,
+
+34
+00:01:42,400 --> 00:01:45,100
+right the first prototype of the telephone had just
+
+35
+00:01:45,100 --> 00:01:45,700
+been invented.
+
+36
+00:01:46,900 --> 00:01:49,600
+And if we kind of shift gears into the work setting
+
+37
+00:01:49,600 --> 00:01:52,700
+what ended up happening was people flocked into
+
+38
+00:01:52,700 --> 00:01:56,000
+the first office setting and in
+
+39
+00:01:55,100 --> 00:01:58,400
+this environment two tools emerged.
+
+40
+00:01:59,100 --> 00:02:02,200
+The first tool was the typewriter. So this
+
+41
+00:02:02,200 --> 00:02:05,600
+standardized handwritten documents and streamlined that
+
+42
+00:02:05,600 --> 00:02:06,100
+process.
+
+43
+00:02:07,100 --> 00:02:10,500
+And the second tool was the file cabinet. It allowed
+
+44
+00:02:10,500 --> 00:02:13,500
+you to organize these documents to add
+
+45
+00:02:13,500 --> 00:02:15,600
+more structure to reference them. Later.
+
+46
+00:02:18,200 --> 00:02:22,100
+And if we kind of fast forward to the 1950s, this
+
+47
+00:02:21,100 --> 00:02:25,300
+is when the first computer was introduced and
+
+48
+00:02:24,300 --> 00:02:27,500
+the first computers weren't really that great. There
+
+49
+00:02:27,500 --> 00:02:31,000
+were these giant room size machines. It
+
+50
+00:02:30,500 --> 00:02:34,100
+was mainly for technicians scientists
+
+51
+00:02:33,100 --> 00:02:36,700
+military people and you
+
+52
+00:02:36,700 --> 00:02:39,700
+would think that a machine like this would change the way we work fundamentally, but
+
+53
+00:02:39,700 --> 00:02:41,600
+actually not much changed.
+
+54
+00:02:43,100 --> 00:02:46,000
+And it was in the 70s that a group of
+
+55
+00:02:46,300 --> 00:02:49,600
+computer Pioneers emerged onto the scene and they
+
+56
+00:02:49,600 --> 00:02:50,900
+really questioned the status quo.
+
+57
+00:02:52,400 --> 00:02:56,000
+What happens if we take the computing power of this
+
+58
+00:02:55,300 --> 00:02:58,800
+machine and intersected that with human
+
+59
+00:02:58,800 --> 00:02:59,300
+creativity?
+
+60
+00:03:00,200 --> 00:03:03,100
+What if we used computers to augment human intelligence?
+
+61
+00:03:03,900 --> 00:03:06,000
+It's a super interesting question and folks like
+
+62
+00:03:06,400 --> 00:03:09,600
+Ted Nelson Alan Kay Douglas engelbarth.
+
+63
+00:03:09,600 --> 00:03:12,400
+These were the folks that kind of set the
+
+64
+00:03:12,400 --> 00:03:15,000
+foundation for computing that we know today.
+
+65
+00:03:18,600 --> 00:03:21,400
+But something got Lost in Translation, right? You
+
+66
+00:03:21,400 --> 00:03:25,100
+would think that these ideas would kind of disrupt fundamentally
+
+67
+00:03:24,100 --> 00:03:28,000
+the way we work. But actually if
+
+68
+00:03:27,200 --> 00:03:30,400
+you think about the tools that we use today, they're quite
+
+69
+00:03:30,400 --> 00:03:34,100
+rigid and conceptually, they're very similar to the typewriter
+
+70
+00:03:33,100 --> 00:03:36,600
+and the file cabinet right? If you think about a document
+
+71
+00:03:36,600 --> 00:03:39,900
+editor, it's a typewriter in pixels,
+
+72
+00:03:39,900 --> 00:03:43,000
+maybe in the cloud and same goes for the file
+
+73
+00:03:42,500 --> 00:03:44,500
+database file cabinets.
+
+74
+00:03:46,200 --> 00:03:49,200
+And this is where notion comes in we really want
+
+75
+00:03:49,200 --> 00:03:52,900
+to break away from this this Paradigm
+
+76
+00:03:52,900 --> 00:03:55,600
+of working in rigid Silo tools.
+
+77
+00:03:55,600 --> 00:03:58,600
+Why not have a single tool
+
+78
+00:03:58,600 --> 00:04:01,300
+for all your needs rather than working in
+
+79
+00:04:01,300 --> 00:04:04,300
+these disparate tools, and we really want to revive the
+
+80
+00:04:04,300 --> 00:04:07,200
+ideas of these early Computing pioneers.
+
+81
+00:04:08,500 --> 00:04:11,000
+So that's what notion is. It's an all-in-one tool.
+
+82
+00:04:11,900 --> 00:04:15,100
+for documents wikis projects and
+
+83
+00:04:14,100 --> 00:04:15,400
+tasks
+
+84
+00:04:16,200 --> 00:04:19,800
+But it's also much more than that. It's it's a flexible system a single
+
+85
+00:04:19,800 --> 00:04:21,900
+canvas that you could build on top of.
+
+86
+00:04:23,400 --> 00:04:26,500
+And so that's our mission a notion is to make software
+
+87
+00:04:26,500 --> 00:04:28,400
+at school making ubiquitous for everyone.
+
+88
+00:04:30,900 --> 00:04:33,600
+And so in order to achieve our mission, our product
+
+89
+00:04:33,600 --> 00:04:34,700
+has to be amazing.
+
+90
+00:04:36,100 --> 00:04:39,800
+And if you haven't opened notion, this is what
+
+91
+00:04:39,800 --> 00:04:41,600
+it looks like when you first open it.
+
+92
+00:04:43,200 --> 00:04:43,900
+It's simple.
+
+93
+00:04:45,200 --> 00:04:45,700
+It's approachable.
+
+94
+00:04:47,200 --> 00:04:50,400
+It's pretty familiar. It feels like a text editor, right?
+
+95
+00:04:50,400 --> 00:04:52,800
+So you might start typing and add some text.
+
+96
+00:04:53,900 --> 00:04:56,200
+Maybe an image or two and kind of
+
+97
+00:04:56,200 --> 00:04:57,500
+format your page.
+
+98
+00:04:58,300 --> 00:05:02,600
+Emojis, our customers love emojis and soon
+
+99
+00:05:01,600 --> 00:05:04,600
+enough the documents slowly comes
+
+100
+00:05:04,600 --> 00:05:07,100
+to life from this blank canvas into a much
+
+101
+00:05:07,100 --> 00:05:08,800
+more Dynamic document.
+
+102
+00:05:09,700 --> 00:05:12,500
+You could add some structure where you can then filter and
+
+103
+00:05:12,500 --> 00:05:15,700
+search and soon enough. You have
+
+104
+00:05:15,700 --> 00:05:19,100
+these much more first class use cases, maybe one
+
+105
+00:05:18,100 --> 00:05:20,400
+for a docs and Wiki.
+
+106
+00:05:21,100 --> 00:05:23,100
+Maybe another for managing your projects.
+
+107
+00:05:24,400 --> 00:05:27,100
+And the amazing thing is all this happens in a single
+
+108
+00:05:27,100 --> 00:05:27,500
+environment.
+
+109
+00:05:28,400 --> 00:05:31,600
+So rather than me sending an email to Georgia
+
+110
+00:05:31,600 --> 00:05:35,300
+at 3 am about my keynote presentation, she and
+
+111
+00:05:34,300 --> 00:05:38,300
+I can operate in a single environment in a
+
+112
+00:05:37,300 --> 00:05:39,600
+in a single workspace.
+
+113
+00:05:40,700 --> 00:05:43,600
+So that's kind of the the magic behind notion.
+
+114
+00:05:43,600 --> 00:05:46,300
+And the reason why notion is so
+
+115
+00:05:46,300 --> 00:05:49,500
+flexible is because everything is built on this
+
+116
+00:05:49,500 --> 00:05:51,000
+primitive called a block.
+
+117
+00:05:52,300 --> 00:05:55,200
+So a block in notion you can think of it
+
+118
+00:05:55,200 --> 00:05:58,600
+as a container of information. It could be text. It
+
+119
+00:05:58,600 --> 00:06:01,500
+could be an image. It can be a video but it could also be so much
+
+120
+00:06:01,500 --> 00:06:04,300
+more. It could be real data that
+
+121
+00:06:04,300 --> 00:06:08,000
+you can integrate from external sources. It could be code. It
+
+122
+00:06:07,100 --> 00:06:10,300
+could be a quote block really the
+
+123
+00:06:10,300 --> 00:06:13,300
+possibilities are endless and the mental model
+
+124
+00:06:13,300 --> 00:06:15,100
+that we have. Is that of Lego
+
+125
+00:06:16,300 --> 00:06:19,300
+In the most primitive most foundational layer, you
+
+126
+00:06:19,300 --> 00:06:22,200
+have these individual blocks that anyone can kind
+
+127
+00:06:22,200 --> 00:06:24,600
+of play with an interact with and explore.
+
+128
+00:06:25,300 --> 00:06:28,500
+But on the other hand of the spectrum you can build these blocks into something
+
+129
+00:06:28,500 --> 00:06:31,400
+much more opinionated something much more structured like
+
+130
+00:06:31,400 --> 00:06:32,500
+a Lego set.
+
+131
+00:06:33,300 --> 00:06:36,600
+I think there's a speaker later from the LEGO Group. So quick
+
+132
+00:06:36,600 --> 00:06:39,300
+shout out. We're big fans of Lego from
+
+133
+00:06:39,300 --> 00:06:40,300
+from the ocean.
+
+134
+00:06:43,500 --> 00:06:48,000
+So this is what notion looks like in motion. It's
+
+135
+00:06:46,500 --> 00:06:49,500
+a flexible canvas, you
+
+136
+00:06:49,500 --> 00:06:52,800
+can move around and drag around these blocks and the
+
+137
+00:06:52,800 --> 00:06:55,600
+mental model is quite similar to maybe that of
+
+138
+00:06:55,600 --> 00:06:58,600
+a desktop computer. You can drag and
+
+139
+00:06:58,600 --> 00:07:01,000
+drop you can select multiple elements and we
+
+140
+00:07:01,200 --> 00:07:04,600
+want to notion to feel as familiar and intuitive as
+
+141
+00:07:04,600 --> 00:07:07,500
+possible even though at in the very beginning it might
+
+142
+00:07:07,500 --> 00:07:08,900
+feel like a simple text editor.
+
+143
+00:07:10,100 --> 00:07:12,000
+I would do is you could.
+
+144
+00:07:12,800 --> 00:07:15,100
+Turn blocks into other blocks. So here you have a
+
+145
+00:07:15,100 --> 00:07:18,400
+code block and you could turn that into a quote block.
+
+146
+00:07:18,400 --> 00:07:19,400
+Move it around.
+
+147
+00:07:20,600 --> 00:07:23,300
+Put it place it into another part of the
+
+148
+00:07:23,300 --> 00:07:23,400
+app.
+
+149
+00:07:24,300 --> 00:07:27,200
+So that's notion in a nutshell. It's a super
+
+150
+00:07:27,200 --> 00:07:28,100
+flexible tool.
+
+151
+00:07:29,500 --> 00:07:32,800
+But you might kind of Wonder as as a
+
+152
+00:07:32,800 --> 00:07:35,900
+design team a design team of sixth. How
+
+153
+00:07:35,900 --> 00:07:37,700
+do we design this product?
+
+154
+00:07:39,300 --> 00:07:39,500
+So
+
+155
+00:07:40,500 --> 00:07:43,400
+In order to answer that question. I want to take I wanted
+
+156
+00:07:43,400 --> 00:07:46,100
+to take a quick poll of the room. So I think most of
+
+157
+00:07:46,100 --> 00:07:49,500
+us are designers here. So if given the
+
+158
+00:07:49,500 --> 00:07:52,400
+task which design problem would you
+
+159
+00:07:52,400 --> 00:07:53,100
+rather solve?
+
+160
+00:07:53,700 --> 00:07:56,400
+Would you rather build the perfect chair and
+
+161
+00:07:56,400 --> 00:07:59,200
+bring that to markets you might think of the
+
+162
+00:07:59,200 --> 00:08:03,000
+curves you might think about this more intuitively and more tactically
+
+163
+00:08:02,100 --> 00:08:05,200
+or would you
+
+164
+00:08:05,200 --> 00:08:08,400
+want to build a built environment a city or a town?
+
+165
+00:08:08,400 --> 00:08:11,100
+Perhaps the problems are obviously much more
+
+166
+00:08:11,100 --> 00:08:14,200
+complex and night and day but a quick show
+
+167
+00:08:14,200 --> 00:08:15,400
+of hands whose team chair.
+
+168
+00:08:17,700 --> 00:08:21,500
+Okay, not many people and who
+
+169
+00:08:21,500 --> 00:08:22,600
+would rather build the city?
+
+170
+00:08:24,100 --> 00:08:24,700
+Wow, okay.
+
+171
+00:08:26,100 --> 00:08:30,200
+That's that's awesome. So it seems like more people prefer the
+
+172
+00:08:29,200 --> 00:08:31,000
+the city.
+
+173
+00:08:33,500 --> 00:08:36,400
+So yeah for the chair the designer might
+
+174
+00:08:36,400 --> 00:08:39,300
+think about much more intuitive and tactical things
+
+175
+00:08:39,300 --> 00:08:43,000
+like the materials the the cost
+
+176
+00:08:42,200 --> 00:08:45,400
+of the chair. How do you assemble it?
+
+177
+00:08:45,400 --> 00:08:48,600
+How comfortable is it? And these are very localized problems
+
+178
+00:08:48,600 --> 00:08:51,700
+that something that a team can very intuitively solve
+
+179
+00:08:51,700 --> 00:08:54,800
+you really caring about the craft of the problem right
+
+180
+00:08:54,800 --> 00:08:57,400
+and maybe if you make a mistake you
+
+181
+00:08:57,400 --> 00:08:59,200
+have always next year to iterate on that.
+
+182
+00:09:00,200 --> 00:09:03,000
+But if you think about the city as a problem,
+
+183
+00:09:03,200 --> 00:09:06,100
+it's a much more complex problem. Right? It's actually
+
+184
+00:09:06,100 --> 00:09:09,600
+not a single problem. It's a network of complex nodes
+
+185
+00:09:09,600 --> 00:09:13,600
+and you're thinking about all sorts of things from transits to
+
+186
+00:09:13,600 --> 00:09:17,200
+the general environment Healthcare so
+
+187
+00:09:16,200 --> 00:09:19,300
+many complex systems that come into place
+
+188
+00:09:19,300 --> 00:09:22,700
+that it would be impossible for a single designer to intuitively
+
+189
+00:09:22,700 --> 00:09:23,400
+solve for
+
+190
+00:09:25,400 --> 00:09:28,400
+And if we kind of map this on a chart you can
+
+191
+00:09:28,400 --> 00:09:31,400
+see that well the chair shape problem the answer
+
+192
+00:09:31,400 --> 00:09:34,300
+the form and the solution to it is much more
+
+193
+00:09:34,300 --> 00:09:37,700
+straightforward. But if you kind of extend the
+
+194
+00:09:37,700 --> 00:09:41,200
+Spectrum and think about the city problem the
+
+195
+00:09:40,200 --> 00:09:45,100
+solution is actually not that straightforward there
+
+196
+00:09:43,100 --> 00:09:46,200
+might require a lot
+
+197
+00:09:46,200 --> 00:09:49,300
+of exploration and Christopher Alexander talks about
+
+198
+00:09:49,300 --> 00:09:53,600
+this concept achieving Fitness between context
+
+199
+00:09:52,600 --> 00:09:55,300
+which is the setting of
+
+200
+00:09:55,300 --> 00:09:58,700
+your problem and form, which is the solution
+
+201
+00:09:58,700 --> 00:09:59,400
+to that problem.
+
+202
+00:10:00,400 --> 00:10:04,100
+And he talks about how good design isn't actually just the
+
+203
+00:10:03,100 --> 00:10:06,400
+solution or the form on its own but it's actually this
+
+204
+00:10:06,400 --> 00:10:09,700
+Ensemble between how how
+
+205
+00:10:09,700 --> 00:10:12,800
+a solution fits in with the
+
+206
+00:10:12,800 --> 00:10:13,600
+original context.
+
+207
+00:10:15,100 --> 00:10:18,100
+So let's extend that to notion. And this
+
+208
+00:10:18,100 --> 00:10:22,400
+is how notion product designers operate conceptually
+
+209
+00:10:21,400 --> 00:10:25,200
+we float between these these differently
+
+210
+00:10:24,200 --> 00:10:27,700
+shaped problems from chair-shaped problems
+
+211
+00:10:27,700 --> 00:10:32,000
+to City shape problems. So very tactically a
+
+212
+00:10:30,700 --> 00:10:33,900
+cherished problem might look
+
+213
+00:10:33,900 --> 00:10:36,600
+something like this where customers have
+
+214
+00:10:36,600 --> 00:10:39,300
+wrote into us and they really Express
+
+215
+00:10:39,300 --> 00:10:42,300
+the need to have more controls over their
+
+216
+00:10:42,300 --> 00:10:45,200
+images. So the solution in return is quite
+
+217
+00:10:45,200 --> 00:10:48,600
+simple. There's there's some execution
+
+218
+00:10:48,600 --> 00:10:51,700
+obviously involved but really the solution here is
+
+219
+00:10:51,700 --> 00:10:53,100
+to allow customers to
+
+220
+00:10:54,100 --> 00:10:58,200
+kind of align their images maybe sensor left, right and it's
+
+221
+00:10:58,200 --> 00:11:01,300
+a relatively simple design problem and it's actually still
+
+222
+00:11:01,300 --> 00:11:04,300
+quite important customers love notion because
+
+223
+00:11:04,300 --> 00:11:08,100
+we ship these smaller features that that they
+
+224
+00:11:07,100 --> 00:11:08,200
+love
+
+225
+00:11:09,500 --> 00:11:12,300
+But on the other end of the spectrum if we take the city shape
+
+226
+00:11:12,300 --> 00:11:16,000
+problem. Another notion problem is that customers actually
+
+227
+00:11:15,500 --> 00:11:18,500
+don't realize the use
+
+228
+00:11:18,500 --> 00:11:21,100
+cases for notion. So the benefit of notion is that
+
+229
+00:11:21,100 --> 00:11:24,700
+it's flexible. It's powerful but for first-time
+
+230
+00:11:24,700 --> 00:11:27,700
+users, they're quite confused. What is
+
+231
+00:11:27,700 --> 00:11:30,600
+the main use case? And so to think about this problem?
+
+232
+00:11:30,600 --> 00:11:33,600
+You actually have to think about the notion that
+
+233
+00:11:33,600 --> 00:11:37,500
+product conceptually kind of question fundamentally how
+
+234
+00:11:37,500 --> 00:11:40,500
+everything works and the team right now is exploring ways.
+
+235
+00:11:40,500 --> 00:11:44,000
+Where maybe when you open notion for the first time rather
+
+236
+00:11:43,100 --> 00:11:47,200
+than putting together these building blocks manually you
+
+237
+00:11:46,200 --> 00:11:48,900
+select your use cases explicitly.
+
+238
+00:11:50,300 --> 00:11:53,500
+So all this to say it's quite exciting to
+
+239
+00:11:53,500 --> 00:11:56,100
+be a designer at notion and that we get
+
+240
+00:11:56,100 --> 00:11:59,800
+to operate in multiple layers of the stack. So the city shape
+
+241
+00:11:59,800 --> 00:12:02,300
+problems. We think very conceptually we
+
+242
+00:12:02,300 --> 00:12:05,500
+questioned the status quo of the product. These are
+
+243
+00:12:05,500 --> 00:12:09,700
+things that are most of the time irreversible and
+
+244
+00:12:08,700 --> 00:12:11,600
+requires a lot more coordination and
+
+245
+00:12:11,600 --> 00:12:12,800
+thought with the rest of the team.
+
+246
+00:12:14,600 --> 00:12:18,000
+You have things like information architecture and
+
+247
+00:12:17,000 --> 00:12:18,500
+navigation.
+
+248
+00:12:19,500 --> 00:12:22,400
+Where you're thinking about still high level
+
+249
+00:12:22,400 --> 00:12:26,000
+broad Concepts, but there's a tactical outcome. Is
+
+250
+00:12:25,300 --> 00:12:28,200
+it a sidebar? Is it a pop-up? Is
+
+251
+00:12:28,200 --> 00:12:29,200
+it a navigation form?
+
+252
+00:12:32,100 --> 00:12:35,400
+And then the next layer we think about are these tactical more
+
+253
+00:12:35,400 --> 00:12:38,600
+chair-liked problems features that
+
+254
+00:12:38,600 --> 00:12:42,000
+maybe on its own might not be feel
+
+255
+00:12:41,200 --> 00:12:44,300
+like much but in some it really
+
+256
+00:12:44,300 --> 00:12:46,100
+adds up to the end user experience.
+
+257
+00:12:47,800 --> 00:12:50,400
+And then lastly we have the more
+
+258
+00:12:50,400 --> 00:12:53,500
+Atomic components for notion the system not
+
+259
+00:12:53,500 --> 00:12:57,900
+the product. So we think about components like modals and
+
+260
+00:12:57,900 --> 00:13:00,500
+input Fields General patterns
+
+261
+00:13:00,500 --> 00:13:03,800
+that we can generalize across the across the
+
+262
+00:13:03,800 --> 00:13:04,000
+product.
+
+263
+00:13:06,700 --> 00:13:06,800
+so
+
+264
+00:13:07,600 --> 00:13:10,400
+I want to kind of end with a deep
+
+265
+00:13:10,400 --> 00:13:13,800
+dive into one of our projects and the
+
+266
+00:13:13,800 --> 00:13:16,700
+project we worked on this about a year ago and the
+
+267
+00:13:16,700 --> 00:13:19,600
+team was tasked to improve comments
+
+268
+00:13:19,600 --> 00:13:23,100
+in the ocean. And if you think about comments, it's
+
+269
+00:13:22,100 --> 00:13:25,300
+actually the fundamental form of
+
+270
+00:13:25,300 --> 00:13:28,200
+communication in notion. If someone sends you a
+
+271
+00:13:28,200 --> 00:13:31,800
+doc the way you interact with it is to add comments give
+
+272
+00:13:31,800 --> 00:13:35,000
+feedback engage and in the team environment
+
+273
+00:13:34,300 --> 00:13:37,200
+like notion, this is the most this is
+
+274
+00:13:37,200 --> 00:13:38,100
+one of the most important layers.
+
+275
+00:13:40,500 --> 00:13:43,400
+I would say comments is maybe like a
+
+276
+00:13:43,400 --> 00:13:46,600
+car shaped problem. It's not quite a chair. It's not quite the
+
+277
+00:13:46,600 --> 00:13:50,200
+city. It's it's conceptually simple
+
+278
+00:13:49,200 --> 00:13:52,800
+for the most part, but there's a lot of very tactical
+
+279
+00:13:52,800 --> 00:13:54,200
+and interaction challenges.
+
+280
+00:13:55,800 --> 00:13:56,100
+and so
+
+281
+00:13:57,200 --> 00:14:00,200
+this was an ocean back in 2021.
+
+282
+00:14:01,500 --> 00:14:04,300
+If you've used notion, you'll you'll be quite familiar with this.
+
+283
+00:14:04,300 --> 00:14:08,000
+And if we break down the the page
+
+284
+00:14:07,400 --> 00:14:10,300
+you have kind of three parts, you have a top
+
+285
+00:14:10,300 --> 00:14:13,900
+bar. That's more textual. It contains core
+
+286
+00:14:13,900 --> 00:14:16,600
+navigation. You have these tiny
+
+287
+00:14:16,600 --> 00:14:19,800
+little icons that if you click into shows a
+
+288
+00:14:19,800 --> 00:14:20,400
+comment pop-up.
+
+289
+00:14:21,200 --> 00:14:25,000
+And then you have a pop-up
+
+290
+00:14:24,500 --> 00:14:28,400
+that if you click into you kind of
+
+291
+00:14:28,400 --> 00:14:31,700
+have to click into out of and it's a pretty tedious experience
+
+292
+00:14:31,700 --> 00:14:34,400
+where rather than viewing everything in
+
+293
+00:14:34,400 --> 00:14:37,300
+a single cohesive form. You kind of have to click in
+
+294
+00:14:37,300 --> 00:14:37,600
+and out so
+
+295
+00:14:39,400 --> 00:14:43,000
+All this to say the team did some research we explored
+
+296
+00:14:42,100 --> 00:14:45,600
+the problem space and we distilled improving
+
+297
+00:14:45,600 --> 00:14:48,700
+comments in three concrete problems.
+
+298
+00:14:49,300 --> 00:14:52,300
+So the first problem was that comments weren't very
+
+299
+00:14:52,300 --> 00:14:55,200
+discoverable quite literally we had folks writing in
+
+300
+00:14:55,200 --> 00:14:58,300
+mentioning. Hey, I can't find the comments and they
+
+301
+00:14:58,300 --> 00:15:01,000
+really couldn't see the tiny affordances in the
+
+302
+00:15:01,600 --> 00:15:04,200
+margins. So that was a problem. No one really knew how
+
+303
+00:15:04,200 --> 00:15:07,600
+to discover these comments. But secondly,
+
+304
+00:15:07,600 --> 00:15:10,400
+it was really difficult to understand
+
+305
+00:15:10,400 --> 00:15:14,000
+the intent of each of these indicators, you
+
+306
+00:15:13,600 --> 00:15:16,800
+know, real might say this looks good, but our
+
+307
+00:15:16,800 --> 00:15:19,100
+manager might say this needs more urgent
+
+308
+00:15:19,100 --> 00:15:19,400
+attention.
+
+309
+00:15:20,200 --> 00:15:23,700
+So there's a problem of priority
+
+310
+00:15:23,700 --> 00:15:25,600
+in assessing the difference comments.
+
+311
+00:15:27,600 --> 00:15:30,400
+The second problem was that transitioning between
+
+312
+00:15:30,400 --> 00:15:33,600
+each disparate thread felt quite fractured.
+
+313
+00:15:34,300 --> 00:15:37,300
+So you saw this earlier, but when you open a notion comment,
+
+314
+00:15:37,300 --> 00:15:40,000
+it's it appears on a layer on top of
+
+315
+00:15:40,200 --> 00:15:43,800
+the fundamental editor. So when you click into it, you
+
+316
+00:15:43,800 --> 00:15:46,300
+have to click out of it. If you want to open another
+
+317
+00:15:46,300 --> 00:15:49,500
+thread, you have to then click out of it. So if you
+
+318
+00:15:49,500 --> 00:15:52,600
+multiply this by every comment by every
+
+319
+00:15:52,600 --> 00:15:55,800
+page, it really created a fractured user
+
+320
+00:15:55,800 --> 00:15:56,200
+experience.
+
+321
+00:15:58,200 --> 00:16:01,500
+And then lastly there wasn't any new affordance for
+
+322
+00:16:01,500 --> 00:16:04,500
+updated updates and comments in
+
+323
+00:16:04,500 --> 00:16:07,200
+your document. So if I'm responsible for a document,
+
+324
+00:16:07,200 --> 00:16:10,600
+I send it out to a few folks. It was
+
+325
+00:16:10,600 --> 00:16:13,700
+really difficult to assess, you know, when where I
+
+326
+00:16:13,700 --> 00:16:15,700
+should kind of triage and reply.
+
+327
+00:16:17,100 --> 00:16:20,400
+So fast forwarding a bit. This was the solution
+
+328
+00:16:20,400 --> 00:16:23,900
+that we landed on we shipped a two-part solution. And
+
+329
+00:16:23,900 --> 00:16:26,700
+so the first part was a a
+
+330
+00:16:26,700 --> 00:16:30,400
+series of comments as in in
+
+331
+00:16:30,400 --> 00:16:33,500
+the shape of a container in the margin of
+
+332
+00:16:33,500 --> 00:16:36,600
+your page. So if you use other tools, this
+
+333
+00:16:36,600 --> 00:16:39,700
+is a pretty familiar kind of experience, but
+
+334
+00:16:39,700 --> 00:16:42,300
+we also shipped a second part where if you
+
+335
+00:16:42,300 --> 00:16:45,300
+open a comet's sidebar on the top, right it gives
+
+336
+00:16:45,300 --> 00:16:48,300
+you a continuous stream of all comments in
+
+337
+00:16:48,300 --> 00:16:51,800
+your page and this kind of created a separate container of
+
+338
+00:16:51,800 --> 00:16:52,800
+information separate.
+
+339
+00:16:53,700 --> 00:16:54,800
+from the core editor
+
+340
+00:16:56,200 --> 00:17:00,500
+So this is what it looks like an action if
+
+341
+00:16:59,500 --> 00:17:02,600
+you hover it interacts you
+
+342
+00:17:02,600 --> 00:17:05,100
+can click into it. But if you click on
+
+343
+00:17:05,100 --> 00:17:09,300
+the comments icon it then opens the sidebar
+
+344
+00:17:08,300 --> 00:17:11,800
+and it'll navigate to the corresponding block.
+
+345
+00:17:14,600 --> 00:17:17,900
+And with this project I really want to talk about two things.
+
+346
+00:17:19,100 --> 00:17:22,600
+The first part is the Wilderness or the messy exploration
+
+347
+00:17:22,600 --> 00:17:25,700
+phase what you'll see are a
+
+348
+00:17:25,700 --> 00:17:28,500
+series of kind of wacky ideas
+
+349
+00:17:28,500 --> 00:17:31,500
+kind of thing ideas that we played with that got
+
+350
+00:17:31,500 --> 00:17:32,800
+us to this two-part experience.
+
+351
+00:17:33,700 --> 00:17:36,400
+And then the second part is all the fit
+
+352
+00:17:36,400 --> 00:17:39,100
+and finish the polished details that I think
+
+353
+00:17:39,100 --> 00:17:42,100
+really adds up to the end user experience.
+
+354
+00:17:43,900 --> 00:17:47,400
+So first the Wilderness when we
+
+355
+00:17:47,400 --> 00:17:50,200
+first started this project, we were really interested
+
+356
+00:17:50,200 --> 00:17:53,700
+in this idea of merging these two canvases
+
+357
+00:17:53,700 --> 00:17:56,600
+the first canvas being the core editor the second
+
+358
+00:17:56,600 --> 00:17:59,600
+canvas being the commenting experience
+
+359
+00:17:59,600 --> 00:18:02,600
+and we wanted to merge these experiences as
+
+360
+00:18:02,600 --> 00:18:06,100
+much as possible. So that's the so
+
+361
+00:18:05,100 --> 00:18:08,300
+that there's as much cohesion as possible.
+
+362
+00:18:09,200 --> 00:18:12,800
+If you think about a conceptually an editor, you're typing text you're
+
+363
+00:18:12,800 --> 00:18:15,400
+adding these blocks when you're adding a comment. You're also
+
+364
+00:18:15,400 --> 00:18:19,000
+doing something very similar you're adding text and and
+
+365
+00:18:18,300 --> 00:18:19,700
+referencing a block.
+
+366
+00:18:21,300 --> 00:18:21,400
+so
+
+367
+00:18:22,500 --> 00:18:25,600
+The first exploration we were
+
+368
+00:18:25,600 --> 00:18:28,500
+toying with the idea of introducing a new sidebar
+
+369
+00:18:28,500 --> 00:18:31,400
+that appeared in your notion editor and this
+
+370
+00:18:31,400 --> 00:18:34,600
+sidebar would merge all your updates and
+
+371
+00:18:34,600 --> 00:18:38,000
+comments into a single stream. It's kind
+
+372
+00:18:37,200 --> 00:18:38,600
+of sorted by time.
+
+373
+00:18:39,300 --> 00:18:42,900
+And the first this was pretty interesting to think well comments are
+
+374
+00:18:42,900 --> 00:18:45,800
+a subset of updates. So maybe we can merge everything into
+
+375
+00:18:45,800 --> 00:18:48,100
+a single stream. But actually when we
+
+376
+00:18:48,100 --> 00:18:51,400
+were playing with the idea, this is kind of noisy. If
+
+377
+00:18:51,400 --> 00:18:54,300
+you wanted to focus on each comment you
+
+378
+00:18:54,300 --> 00:18:57,600
+had to sift through a large list of updates.
+
+379
+00:18:57,600 --> 00:19:00,300
+So then we thought to ourselves. Okay, what if we
+
+380
+00:19:00,300 --> 00:19:04,000
+separated out comments and updates into
+
+381
+00:19:03,100 --> 00:19:06,500
+discrete tabs? What if
+
+382
+00:19:06,500 --> 00:19:09,900
+a user could focus just on comments and
+
+383
+00:19:09,900 --> 00:19:12,200
+they clicked into a thread it'll open
+
+384
+00:19:12,200 --> 00:19:14,100
+the pop-up that we saw earlier.
+
+385
+00:19:15,100 --> 00:19:18,300
+Problem with this was that well people really hated the pop-up and
+
+386
+00:19:18,300 --> 00:19:21,100
+it's still created this friction of kind of
+
+387
+00:19:21,100 --> 00:19:22,100
+opening and closing.
+
+388
+00:19:22,900 --> 00:19:26,000
+We had another exploration where if you clicked into an
+
+389
+00:19:25,300 --> 00:19:29,400
+icon an entire sidebar appeared with
+
+390
+00:19:28,400 --> 00:19:32,000
+just that thread, but this was
+
+391
+00:19:31,800 --> 00:19:34,700
+very clean in some ways. But it also
+
+392
+00:19:34,700 --> 00:19:37,400
+showed you it also prevented you
+
+393
+00:19:37,400 --> 00:19:40,200
+from seeing all your comments in a single place. So we
+
+394
+00:19:40,200 --> 00:19:43,300
+after some iteration we kind of got to this
+
+395
+00:19:43,300 --> 00:19:45,100
+form where we had.
+
+396
+00:19:47,600 --> 00:19:50,000
+Two entry points.
+
+397
+00:19:50,500 --> 00:19:53,300
+The first entry point was a single stream for your
+
+398
+00:19:53,300 --> 00:19:56,300
+comments and the second stream was a single stream for
+
+399
+00:19:56,300 --> 00:19:59,400
+your updates and together. You can toggle between these
+
+400
+00:19:59,400 --> 00:20:02,200
+two and they would interact quite cohesively with
+
+401
+00:20:02,200 --> 00:20:05,300
+the core editor you click on one thread it Scrolls
+
+402
+00:20:05,300 --> 00:20:07,000
+you onto the corresponding block.
+
+403
+00:20:09,600 --> 00:20:12,200
+So part one of that experience felt pretty
+
+404
+00:20:12,200 --> 00:20:15,700
+good. But when you close the sidebar you kind
+
+405
+00:20:15,700 --> 00:20:18,900
+of came back to this zero states where the
+
+406
+00:20:18,900 --> 00:20:21,600
+affordances weren't quite clear and it wasn't as discoverable.
+
+407
+00:20:21,600 --> 00:20:24,900
+So we blew this up and we made each
+
+408
+00:20:24,900 --> 00:20:27,400
+of these icons a preview into a
+
+409
+00:20:27,400 --> 00:20:30,200
+full comment thread. So that's
+
+410
+00:20:30,200 --> 00:20:33,300
+when you're reading a document for the first time you can
+
+411
+00:20:33,300 --> 00:20:37,200
+easily glance what the content of the the comments
+
+412
+00:20:36,200 --> 00:20:37,300
+was.
+
+413
+00:20:38,600 --> 00:20:41,600
+So finally just wanted
+
+414
+00:20:41,600 --> 00:20:45,000
+to highlight a few polish and fit and finish details
+
+415
+00:20:44,000 --> 00:20:45,300
+here.
+
+416
+00:20:47,400 --> 00:20:48,800
+So the first
+
+417
+00:20:49,700 --> 00:20:52,300
+Kind of detail. I wanted to highlight is the page layout
+
+418
+00:20:52,300 --> 00:20:56,100
+if we break down a notion editor. There's all
+
+419
+00:20:55,100 --> 00:20:58,400
+these disparate parts that add up
+
+420
+00:20:58,400 --> 00:21:01,300
+right? So you saw earlier. The first impression
+
+421
+00:21:01,300 --> 00:21:04,400
+of notion is quite simple, but under the hood, there's actually all
+
+422
+00:21:04,400 --> 00:21:07,600
+these different components that make up the the editor.
+
+423
+00:21:07,600 --> 00:21:10,300
+So the first task was to really break down
+
+424
+00:21:10,300 --> 00:21:13,600
+and annotate each part to the the page.
+
+425
+00:21:15,800 --> 00:21:18,500
+The second order of things was to break
+
+426
+00:21:18,500 --> 00:21:22,200
+down the anatomy of every individual comments
+
+427
+00:21:21,200 --> 00:21:24,100
+thread and comments are
+
+428
+00:21:24,100 --> 00:21:27,300
+quite tricky because it's form is different. Every single
+
+429
+00:21:27,300 --> 00:21:30,100
+time. No comment is alike. So you have to
+
+430
+00:21:30,100 --> 00:21:34,200
+think about the different states of collapsed expanded focused.
+
+431
+00:21:33,200 --> 00:21:36,900
+We added we
+
+432
+00:21:36,900 --> 00:21:39,300
+decided to add a preview of the first comments with
+
+433
+00:21:39,300 --> 00:21:40,300
+the first three lines.
+
+434
+00:21:41,300 --> 00:21:44,800
+He also think about scale right? There's a comment have there's a
+
+435
+00:21:44,800 --> 00:21:47,800
+thread have one comment two comments 20 comments.
+
+436
+00:21:48,700 --> 00:21:51,600
+And all this kind of adds up in really
+
+437
+00:21:51,600 --> 00:21:54,200
+being methodical about every different state.
+
+438
+00:21:55,200 --> 00:21:58,300
+So you would think well, if you break down the anatomy of the comment if
+
+439
+00:21:58,300 --> 00:22:01,400
+you think about the page layout that might get you
+
+440
+00:22:01,400 --> 00:22:02,700
+most of the way there.
+
+441
+00:22:03,600 --> 00:22:06,100
+But there's actually a number of keen details that
+
+442
+00:22:06,100 --> 00:22:09,400
+we have to focus on. So the first detail was
+
+443
+00:22:09,400 --> 00:22:12,600
+that we had to break the rule of showing the first three
+
+444
+00:22:12,600 --> 00:22:15,600
+lines of every comments when there was one comment or if
+
+445
+00:22:15,600 --> 00:22:18,300
+you have a and if you have a long page and you
+
+446
+00:22:18,300 --> 00:22:21,500
+see a series of single comments, you actually want to see more than just
+
+447
+00:22:21,500 --> 00:22:24,300
+the first three lines. So we broke that rule for
+
+448
+00:22:24,300 --> 00:22:26,500
+Threads with one comment.
+
+449
+00:22:27,900 --> 00:22:30,300
+Turns out that some blocks
+
+450
+00:22:30,300 --> 00:22:34,100
+are quite tricky, right? So you have this layout and
+
+451
+00:22:33,100 --> 00:22:36,700
+in traditional text editors the margins
+
+452
+00:22:36,700 --> 00:22:39,900
+and the content are in very discreet parallel
+
+453
+00:22:39,900 --> 00:22:42,400
+locations, but with notion,
+
+454
+00:22:42,400 --> 00:22:45,300
+it's actually quite interesting in that some blocks
+
+455
+00:22:45,300 --> 00:22:49,700
+can extend the full width of the page things like images maybe
+
+456
+00:22:48,700 --> 00:22:51,800
+databases. You name
+
+457
+00:22:51,800 --> 00:22:51,900
+it?
+
+458
+00:22:53,500 --> 00:22:56,400
+So we thought about what this experience should look like and we
+
+459
+00:22:56,400 --> 00:23:00,000
+landed in a simple interaction where
+
+460
+00:22:59,300 --> 00:23:02,300
+if you drag the image or that block
+
+461
+00:23:02,300 --> 00:23:05,400
+it allowed the comment to dodge
+
+462
+00:23:05,400 --> 00:23:08,700
+that element. So as you resize your block
+
+463
+00:23:08,700 --> 00:23:11,500
+your comments would engage directly with
+
+464
+00:23:11,500 --> 00:23:11,800
+that.
+
+465
+00:23:13,600 --> 00:23:17,200
+Toggles if you're familiar with notion toggles,
+
+466
+00:23:16,200 --> 00:23:19,600
+these are specialized lists that
+
+467
+00:23:19,600 --> 00:23:23,000
+helps you collapse content within and it
+
+468
+00:23:22,100 --> 00:23:25,500
+creates more organized hierarchy in your
+
+469
+00:23:25,500 --> 00:23:28,800
+page. And the one of
+
+470
+00:23:28,800 --> 00:23:31,900
+the problems with toggles is that it hides contents, but
+
+471
+00:23:31,900 --> 00:23:34,500
+sometimes you actually want a larger entry
+
+472
+00:23:34,500 --> 00:23:35,700
+point into that.
+
+473
+00:23:36,500 --> 00:23:39,500
+So we were thinking deeply about how we
+
+474
+00:23:39,500 --> 00:23:42,100
+might hide the notion content but still exposed to
+
+475
+00:23:42,100 --> 00:23:45,800
+users that hey there's still a set of comments that you
+
+476
+00:23:45,800 --> 00:23:46,300
+should explore.
+
+477
+00:23:47,500 --> 00:23:50,900
+And so we ended up with this experience where the the
+
+478
+00:23:50,900 --> 00:23:54,000
+content still hid under each toggle. But
+
+479
+00:23:53,400 --> 00:23:57,100
+the the comments on the right hand side indicated
+
+480
+00:23:56,100 --> 00:23:59,500
+and hinted that there was more to that
+
+481
+00:23:59,500 --> 00:24:02,900
+so users could click into the comments and
+
+482
+00:24:02,900 --> 00:24:05,600
+expand the toggle as another way of expanding the
+
+483
+00:24:05,600 --> 00:24:06,200
+core content.
+
+484
+00:24:07,800 --> 00:24:10,500
+Columns notion you
+
+485
+00:24:10,500 --> 00:24:13,200
+could create different layouts one of them being
+
+486
+00:24:13,200 --> 00:24:16,700
+different columns and it was quite tricky just
+
+487
+00:24:16,700 --> 00:24:19,500
+to think through what the ordering of common should
+
+488
+00:24:19,500 --> 00:24:22,200
+be in relation to the content when it's not
+
+489
+00:24:22,200 --> 00:24:22,700
+as linear.
+
+490
+00:24:24,400 --> 00:24:25,200
+and straightforward
+
+491
+00:24:26,400 --> 00:24:29,500
+and lastly when thinking about the visual
+
+492
+00:24:29,500 --> 00:24:33,000
+design every pixel matters when adding
+
+493
+00:24:32,400 --> 00:24:35,800
+content to the page and we
+
+494
+00:24:35,800 --> 00:24:38,800
+shipped the V1 in 2021 and
+
+495
+00:24:38,800 --> 00:24:41,200
+we thought well, I think we think we could make this
+
+496
+00:24:41,200 --> 00:24:44,900
+a lot more compact. So we shaved off 10 pixels and
+
+497
+00:24:44,900 --> 00:24:48,000
+made each comment thread still
+
+498
+00:24:47,300 --> 00:24:50,300
+very legible but denser in
+
+499
+00:24:50,300 --> 00:24:50,400
+some ways.
+
+500
+00:24:52,600 --> 00:24:52,800
+so
+
+501
+00:24:53,800 --> 00:24:56,600
+I want to close by just giving a quick shout
+
+502
+00:24:56,600 --> 00:25:00,000
+out and overview of the team this efforts everything.
+
+503
+00:24:59,100 --> 00:25:03,000
+I showed today is the byproduct of
+
+504
+00:25:02,400 --> 00:25:05,800
+an incredibly talented team starts with
+
+505
+00:25:05,800 --> 00:25:08,300
+our Founders Ivan and Simon
+
+506
+00:25:08,300 --> 00:25:11,600
+but extends to a larger team of product
+
+507
+00:25:11,600 --> 00:25:14,500
+designers across three cities. We work
+
+508
+00:25:14,500 --> 00:25:17,700
+with an incredible group of Engineers and product
+
+509
+00:25:17,700 --> 00:25:18,200
+managers.
+
+510
+00:25:19,300 --> 00:25:22,900
+And quick plug we're hiring. So if
+
+511
+00:25:22,900 --> 00:25:25,000
+you're interested, I'm here Rio is here.
+
+512
+00:25:25,300 --> 00:25:28,300
+We're giving out stickers, and we're opening
+
+513
+00:25:28,300 --> 00:25:31,200
+a London office. So we'll love to see you
+
+514
+00:25:31,200 --> 00:25:34,100
+all around. So if you have a knack for conceptual thinking and
+
+515
+00:25:34,100 --> 00:25:36,800
+craft we love to talk to you. So thank you very much.
